@@ -1,0 +1,27 @@
+{
+  "name": "gabyquiles/db-context",
+  "description": "Behat Context to allow create and drop a DB schema before each Scenario",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Gabriel A. Quiles-Perez",
+      "email": "info@gabyquiles.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.0",
+    "behat/behat": "^3.5",
+    "doctrine/orm": "^2.4.5",
+    "behatch/contexts": "^3.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "GabyQuiles\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "GabyQuiles\\Test\\": "tests/"
+    }
+  }
+}
