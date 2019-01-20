@@ -1,5 +1,10 @@
 {
   "name": "gabyquiles/doctrine-context",
+  "keywords": [
+    "BDD",
+    "Behat",
+    "Doctrine"
+  ],
   "description": "Behat Context to allow create and drop a DB schema before each Scenario",
   "type": "library",
   "authors": [
