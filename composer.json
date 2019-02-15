@@ -21,12 +21,12 @@
   },
   "autoload": {
     "psr-4": {
-      "GabyQuiles\\": "src/"
+      "GabyQuiles\\Behat\\Doctrine\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "GabyQuiles\\Test\\": "tests/"
+      "GabyQuiles\\Behat\\Doctrine\\Test\\": "tests/"
     }
   }
 }

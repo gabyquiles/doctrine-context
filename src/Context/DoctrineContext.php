@@ -1,6 +1,6 @@
 <?php
 
-namespace GabyQuiles\Context;
+namespace GabyQuiles\Behat\Doctrine\Context;
 
 use Behat\Behat\Context\Context;
 use Behat\Gherkin\Node\TableNode;
