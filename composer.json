@@ -1,5 +1,6 @@
 {
   "name": "gabyquiles/doctrine-context",
+  "license": "Apache-2.0",
   "keywords": [
     "BDD",
     "Behat",
